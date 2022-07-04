@@ -1,7 +1,7 @@
 {
  "headers": {
    "/*": {
-     "X-Author": "enclavedkd",
+     "X-Author": "leontevanna",
      "Access-Control-Allow-Origin": "*"
    }
  }
